@@ -30,7 +30,7 @@
 ### oschina配置
 1. 打开项目主页
 2. 打开项目管理页面
-![image](https://cloud.githubusercontent.com/assets/7239657/10121273/95ccda2e-6516-11e5-9a8d-338dd01b215d.png =100x20)
+![image](https://cloud.githubusercontent.com/assets/7239657/10121273/95ccda2e-6516-11e5-9a8d-338dd01b215d.png)
 3. 在左侧菜单栏选择`WebHook钩子`
 4. 填写关键信息：
     * POST URL：服务器接受推送事件的路由接口（例：如果使用[raindrop](http://www.yudianer.com)网来接受数据，配置为http://www.yudianer.com/api/oschina/webhook/你在raindrop网建立的项目名称）
